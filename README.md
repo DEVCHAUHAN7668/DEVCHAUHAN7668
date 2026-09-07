@@ -9,7 +9,6 @@ Email Me 👉 ✉️ **devc2309@gmail.com** For Collaboration/Project or Anythin
 * 🤔 **I’m looking for help with:** Scalable MERN Applications and Backend Architecture
 * 💬 **Ask me about:** Java, DSA, MERN Stack, Node.js, MongoDB, and Web Development
 * 📫 **How to reach me:** devc2309@gmail.com
-* 😄 **Pronouns:** Dev Chauhan
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 
